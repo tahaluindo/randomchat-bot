@@ -23,8 +23,8 @@ Pastikan sudah install NodeJs di PC mu
 
 ### Cara Install
 ```bash
-> git clone https://github.com/Gimenz/randomchat.git
-> cd randomchat
+> git clone https://github.com/tahaluindo/randomchat-bot
+> cd randomchat-bot
 > npm install
 > npm start
 ```
@@ -38,4 +38,4 @@ taruh nomormu di index.js dan cari isOwner
 2. [`imageToSticker`](https://github.com/YogaSakti/imageToSticker)
 
 ## Support My Work
-> [`Trakteer`](https://trakteer.id/gimenz)
+> [`Trakteer`](https://trakteer.id/)
